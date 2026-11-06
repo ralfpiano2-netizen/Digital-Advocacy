@@ -1,0 +1,306 @@
+{
+  "source": "https://isangparcel.netlify.app/",
+  "files": [
+    {
+      "url": "https://isangparcel.netlify.app/",
+      "file": "index.html",
+      "bytes": 12140
+    },
+    {
+      "url": "https://isangparcel.netlify.app/about",
+      "file": "about.html",
+      "bytes": 6080
+    },
+    {
+      "url": "https://isangparcel.netlify.app/action",
+      "file": "action.html",
+      "bytes": 7907
+    },
+    {
+      "url": "https://isangparcel.netlify.app/assets/m2.css",
+      "file": "assets/m2.css",
+      "bytes": 63122
+    },
+    {
+      "url": "https://isangparcel.netlify.app/assets/m2.js",
+      "file": "assets/m2.js",
+      "bytes": 9689
+    },
+    {
+      "url": "https://isangparcel.netlify.app/assets/site.js",
+      "file": "assets/site.js",
+      "bytes": 14900
+    },
+    {
+      "url": "https://isangparcel.netlify.app/assets/style.css",
+      "file": "assets/style.css",
+      "bytes": 110407
+    },
+    {
+      "url": "https://isangparcel.netlify.app/images/HERO.jpg",
+      "file": "images/HERO.jpg",
+      "bytes": 208686
+    },
+    {
+      "url": "https://isangparcel.netlify.app/images/HOME-burning.jpg",
+      "file": "images/HOME-burning.jpg",
+      "bytes": 61464
+    },
+    {
+      "url": "https://isangparcel.netlify.app/images/HOME-day.jpg",
+      "file": "images/HOME-day.jpg",
+      "bytes": 57039
+    },
+    {
+      "url": "https://isangparcel.netlify.app/images/HOME-environment.jpg",
+      "file": "images/HOME-environment.jpg",
+      "bytes": 84767
+    },
+    {
+      "url": "https://isangparcel.netlify.app/images/HOME-landfill.jpg",
+      "file": "images/HOME-landfill.jpg",
+      "bytes": 84878
+    },
+    {
+      "url": "https://isangparcel.netlify.app/images/HOME-map.jpg",
+      "file": "images/HOME-map.jpg",
+      "bytes": 175591
+    },
+    {
+      "url": "https://isangparcel.netlify.app/images/HOME-order.jpg",
+      "file": "images/HOME-order.jpg",
+      "bytes": 37506
+    },
+    {
+      "url": "https://isangparcel.netlify.app/images/HOME-parcel.jpg",
+      "file": "images/HOME-parcel.jpg",
+      "bytes": 39919
+    },
+    {
+      "url": "https://isangparcel.netlify.app/images/HOME-trucks.jpg",
+      "file": "images/HOME-trucks.jpg",
+      "bytes": 92235
+    },
+    {
+      "url": "https://isangparcel.netlify.app/images/HOME-year.jpg",
+      "file": "images/HOME-year.jpg",
+      "bytes": 104041
+    },
+    {
+      "url": "https://isangparcel.netlify.app/images/logo.jpg",
+      "file": "images/logo.jpg",
+      "bytes": 50417
+    },
+    {
+      "url": "https://isangparcel.netlify.app/issue",
+      "file": "issue.html",
+      "bytes": 40441
+    },
+    {
+      "url": "https://isangparcel.netlify.app/m2-next",
+      "file": "m2-next.html",
+      "bytes": 71170
+    },
+    {
+      "url": "https://isangparcel.netlify.app/m2-solutions",
+      "file": "m2-solutions.html",
+      "bytes": 54503
+    },
+    {
+      "url": "https://isangparcel.netlify.app/m2-verdict",
+      "file": "m2-verdict.html",
+      "bytes": 51361
+    },
+    {
+      "url": "https://isangparcel.netlify.app/parcel",
+      "file": "parcel.html",
+      "bytes": 108755
+    },
+    {
+      "url": "https://isangparcel.netlify.app/responsible",
+      "file": "responsible.html",
+      "bytes": 31515
+    },
+    {
+      "url": "https://isangparcel.netlify.app/solutions",
+      "file": "solutions.html",
+      "bytes": 18245
+    },
+    {
+      "url": "https://isangparcel.netlify.app/sources",
+      "file": "sources.html",
+      "bytes": 49577
+    },
+    {
+      "url": "https://isangparcel.netlify.app/sources-m2",
+      "file": "sources-m2.html",
+      "bytes": 55132
+    },
+    {
+      "url": "https://isangparcel.netlify.app/images/ACTION-hero.jpg",
+      "file": "images/ACTION-hero.jpg",
+      "bytes": 322629
+    },
+    {
+      "url": "https://isangparcel.netlify.app/images/IMG-02.jpg",
+      "file": "images/IMG-02.jpg",
+      "bytes": 119078
+    },
+    {
+      "url": "https://isangparcel.netlify.app/images/IMG-03.jpg",
+      "file": "images/IMG-03.jpg",
+      "bytes": 269463
+    },
+    {
+      "url": "https://isangparcel.netlify.app/images/IMG-05.jpg",
+      "file": "images/IMG-05.jpg",
+      "bytes": 146782
+    },
+    {
+      "url": "https://isangparcel.netlify.app/images/IMG-06.jpg",
+      "file": "images/IMG-06.jpg",
+      "bytes": 184099
+    },
+    {
+      "url": "https://isangparcel.netlify.app/images/IMG-07.jpg",
+      "file": "images/IMG-07.jpg",
+      "bytes": 318671
+    },
+    {
+      "url": "https://isangparcel.netlify.app/images/IMG-10.jpg",
+      "file": "images/IMG-10.jpg",
+      "bytes": 321718
+    },
+    {
+      "url": "https://isangparcel.netlify.app/images/IMG-12.jpg",
+      "file": "images/IMG-12.jpg",
+      "bytes": 384127
+    },
+    {
+      "url": "https://isangparcel.netlify.app/images/IMG-15.jpg",
+      "file": "images/IMG-15.jpg",
+      "bytes": 292523
+    },
+    {
+      "url": "https://isangparcel.netlify.app/images/IMG-16.png",
+      "file": "images/IMG-16.png",
+      "bytes": 362459
+    },
+    {
+      "url": "https://isangparcel.netlify.app/images/IMG-17.png",
+      "file": "images/IMG-17.png",
+      "bytes": 1173761
+    },
+    {
+      "url": "https://isangparcel.netlify.app/images/IMG-18.jpg",
+      "file": "images/IMG-18.jpg",
+      "bytes": 301316
+    },
+    {
+      "url": "https://isangparcel.netlify.app/images/IMG-M2-hero.jpg",
+      "file": "images/IMG-M2-hero.jpg",
+      "bytes": 269439
+    },
+    {
+      "url": "https://isangparcel.netlify.app/images/POP-01.jpg",
+      "file": "images/POP-01.jpg",
+      "bytes": 36930
+    },
+    {
+      "url": "https://isangparcel.netlify.app/images/POP-02.jpg",
+      "file": "images/POP-02.jpg",
+      "bytes": 71246
+    },
+    {
+      "url": "https://isangparcel.netlify.app/images/POP-03.jpg",
+      "file": "images/POP-03.jpg",
+      "bytes": 54918
+    },
+    {
+      "url": "https://isangparcel.netlify.app/images/POP-04.jpg",
+      "file": "images/POP-04.jpg",
+      "bytes": 48779
+    },
+    {
+      "url": "https://isangparcel.netlify.app/images/POP-05.jpg",
+      "file": "images/POP-05.jpg",
+      "bytes": 70475
+    },
+    {
+      "url": "https://isangparcel.netlify.app/images/POP-05a.jpg",
+      "file": "images/POP-05a.jpg",
+      "bytes": 119836
+    },
+    {
+      "url": "https://isangparcel.netlify.app/images/POP-05b.jpg",
+      "file": "images/POP-05b.jpg",
+      "bytes": 66756
+    },
+    {
+      "url": "https://isangparcel.netlify.app/images/POP-06.jpg",
+      "file": "images/POP-06.jpg",
+      "bytes": 92522
+    },
+    {
+      "url": "https://isangparcel.netlify.app/images/POP-07.jpg",
+      "file": "images/POP-07.jpg",
+      "bytes": 49695
+    },
+    {
+      "url": "https://isangparcel.netlify.app/images/POP-08.jpg",
+      "file": "images/POP-08.jpg",
+      "bytes": 50868
+    },
+    {
+      "url": "https://isangparcel.netlify.app/images/POP-09.jpg",
+      "file": "images/POP-09.jpg",
+      "bytes": 62080
+    },
+    {
+      "url": "https://isangparcel.netlify.app/images/POP-10.jpg",
+      "file": "images/POP-10.jpg",
+      "bytes": 49302
+    },
+    {
+      "url": "https://isangparcel.netlify.app/images/POP-11.jpg",
+      "file": "images/POP-11.jpg",
+      "bytes": 30638
+    },
+    {
+      "url": "https://isangparcel.netlify.app/images/RESP-hero.jpg",
+      "file": "images/RESP-hero.jpg",
+      "bytes": 32456
+    },
+    {
+      "url": "https://isangparcel.netlify.app/station-05a",
+      "file": "station-05a.html",
+      "bytes": 4892
+    },
+    {
+      "url": "https://isangparcel.netlify.app/station-05b",
+      "file": "station-05b.html",
+      "bytes": 4892
+    },
+    {
+      "url": "https://isangparcel.netlify.app/station-06",
+      "file": "station-06.html",
+      "bytes": 4889
+    },
+    {
+      "url": "https://isangparcel.netlify.app/station-09",
+      "file": "station-09.html",
+      "bytes": 4889
+    },
+    {
+      "url": "https://isangparcel.netlify.app/station-10",
+      "file": "station-10.html",
+      "bytes": 4889
+    },
+    {
+      "url": "https://isangparcel.netlify.app/station-11",
+      "file": "station-11.html",
+      "bytes": 4889
+    }
+  ],
+  "errors": []
+}
